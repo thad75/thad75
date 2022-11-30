@@ -10,4 +10,5 @@ I am Tharsan, Research Engineer at PMU and PhD Student at ETIS Lab.
 - 👯 I’m looking to collaborate on Recommendation Systems and Object Tracking
 - ⚡ Fun fact: Marana Mass
 
-<a href=”https://www.linkedin.com/in/tharsansenthivel/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tharsansenthivel/)
+
