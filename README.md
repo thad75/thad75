@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Tharsan, Research Engineer at PMU and PhD Student at ETIS Lab. 
+I am Tharsan, Lead AI at PMU. 
 <!--
 **thad75/thad75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
