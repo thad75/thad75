@@ -23,4 +23,4 @@ During my PhD, alongside fellow PhD students, we identified a need to update exi
 
 ## Fun Fact
 
-"Marana Mass" is a Tamil slang term meaning "deadly awesomeness" or "epic." It's often used to describe something overwhelmingly impressive or cool. :contentReference[oaicite:0]{index=0}
+"Marana Mass" is a Tamil slang term meaning "deadly awesomeness" or "epic." It's often used to describe something overwhelmingly impressive or cool
