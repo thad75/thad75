@@ -1,14 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Tharsan Senthivel 👋
 
-I am Tharsan, Lead AI at PMU. 
-<!--
-**thad75/thad75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## About Me
 
+I'm Lead AI at PMU, specialized in:
 
-- 🔭 I’m currently working on Object Detection and Object Tracking
-- 👯 I’m looking to collaborate on Recommendation Systems and Object Tracking
-- ⚡ Fun fact: Marana Mass
+- **Object Detection and Tracking**: Developing advanced models for real-time applications.
+- **Recommendation Systems**: Creating personalized experiences through data-driven insights.
+- **Transformers**: Developing various applications using this specific architecture.
+- **Large Language Models (LLMs)**: Leveraging various LLM tools to create value.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tharsansenthivel/)
+## Open Source Projects
 
+During my PhD, alongside fellow PhD students, we identified a need to update existing labs to better train students as AI engineers. Our contributions include:
+
+- **OptionAI**: AI labs designed for ENSEA 2a Option AI students, introducing deep learning and its applications.
+- **TP-ENSEA-ELEVE**: AI labs for ENSEA SIA M2 and M1 students, focusing on practical applications in AI.
+
+## Let's Connect
+
+- **LinkedIn**: [Tharsan Senthivel](https://www.linkedin.com/in/tharsansenthivel)
+- **GitHub**: [thad75](https://github.com/thad75)
+
+## Fun Fact
+
+"Marana Mass" is a Tamil slang term meaning "deadly awesomeness" or "epic." It's often used to describe something overwhelmingly impressive or cool. :contentReference[oaicite:0]{index=0}
