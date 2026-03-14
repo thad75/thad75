@@ -3,7 +3,7 @@
 ## About Me
 
 I'm Lead AI at PMU, specialized in:
-
+- *Agentic AI and LLM*: Developing advanced Agentic app with business value
 - **Object Detection and Tracking**: Developing advanced models for real-time applications.
 - **Recommendation Systems**: Creating personalized experiences through data-driven insights.
 - **Transformers**: Developing various applications using this specific architecture.
