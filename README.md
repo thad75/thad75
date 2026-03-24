@@ -8,6 +8,9 @@ I'm Lead AI at PMU, specialized in:
 - **Recommendation Systems**: Creating personalized experiences through data-driven insights.
 - **Transformers**: Developing various applications using this specific architecture.
 - **Large Language Models (LLMs)**: Leveraging various LLM tools to create value.
+- **Public Speaking**: Presenting AI strategies and innovations to technical and non-technical audiences.
+- **Team Leadership & Change Management**: Leading AI adoption across organizations — aligning people, process, and technology.
+- **Data-Driven Strategy**: Turning insights into action — from experimentation to enterprise-wide deployment.
 
 ## Open Source Projects
 
